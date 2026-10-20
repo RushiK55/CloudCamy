@@ -2,10 +2,18 @@ package com.bytessystems.cloudcamy.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val Slate950 = Color(0xFF0B0F19)
+val Slate900 = Color(0xFF0F172A)
+val Slate800 = Color(0xFF1E293B)
+val Slate700 = Color(0xFF334155)
+val Slate600 = Color(0xFF475569)
+val Slate400 = Color(0xFF94A3B8)
+val Slate300 = Color(0xFFCBD5E1)
+val Slate100 = Color(0xFFF1F5F9)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val CyanAccent = Color(0xFF06B6D4)
+val EmeraldAccent = Color(0xFF10B981)
+val AmberAccent = Color(0xFFF59E0B)
+val RoseAccent = Color(0xFFF43F5E)
+val PurpleAccent = Color(0xFF8B5CF6)
+val BlueAccent = Color(0xFF3B82F6)
